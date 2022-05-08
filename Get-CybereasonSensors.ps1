@@ -2,7 +2,7 @@
 
     <#
 .SYNOPSIS
-Retrieves all sensors from the Cybereason on-premises API
+Retrieves the list of sensors from an on-premises Cybereason API
 
 .DESCRIPTION
 Retrieve all of the sensors (agents or clients) from a Cybereason on-premises console API. You must have a session cookie! Returns a PSCustomObject with the results which you will need to parse further.
