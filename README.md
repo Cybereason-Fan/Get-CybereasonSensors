@@ -5,10 +5,7 @@
 
 ![image](usage-Get-CybereasonSensors.png)
 
-```
- 
 ❗ You must load this script as a "dot sourced" script (see the screenshot above!)
-
 ```
 . .\Get-CybereasonSensors.ps1
 ```
